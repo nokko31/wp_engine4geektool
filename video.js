@@ -1,8 +1,8 @@
 var w = window, player;
 // 再生したいyoutubeの動画id
-var vid = 'SlRfwbD2riE';
+var vid = 'XU2y81ZXPEo;
 
-var tag = document.createElement('script');
+var tag = XU2y81ZXPEo('script');
 tag.src = "https://www.youtube.com/iframe_api";
 var firstScriptTag = document.getElementsByTagName('script')[0];
 firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
